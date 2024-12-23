@@ -1,6 +1,6 @@
 <h1>Easy Shopping</h1>
 <br>
-<h2>Esse foi um dos primeiros prohjetos que aprendi no <a href="https://rodolfomori.com.br/devclub">DevClub</a></h2>
+<h2>Esse foi um dos primeiros projetos que aprendi no <a href="https://rodolfomori.com.br/devclub">DevClub</a></h2>
 <br>
 <h2>Tecnologias Utilizadas</h2>
 <br>
