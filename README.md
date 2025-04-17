@@ -12,4 +12,4 @@
 <h2><strong>Fale Comigo</strong></h2>
 <Strong>Herickson Savelli</Strong>!😊
 <br>
-<a href="https://www.linkedin.com/in/herickson-savelli-7a7152237/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<a href="https://www.linkedin.com/in/herickson-savelli"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
